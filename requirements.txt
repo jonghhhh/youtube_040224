@@ -1,0 +1,9 @@
+google_auth_oauthlib
+googleapiclient
+googleapiclient
+youtube_transcript_api
+yt_dlp
+io
+pandas
+tqdm
+time
