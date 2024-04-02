@@ -1,6 +1,5 @@
 google_auth_oauthlib
-googleapiclient
-googleapiclient
+google-api-python-client   # googleapiclient의 패키지 이름
 youtube_transcript_api
 yt_dlp
 io
