@@ -4,4 +4,3 @@ youtube_transcript_api
 yt_dlp
 pandas
 tqdm
-time
