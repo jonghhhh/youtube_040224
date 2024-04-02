@@ -88,7 +88,7 @@ class YouTubeVideo:
             # 첫 번째 페이지의 댓글 가져오기
             response = self.youtube.commentThreads().list(
                 part='snippet',
-                videoId=video_id,
+                videoId=self.video_id,
                 maxResults=maxResults # 최대 결과 수
             ).execute()
             for item in response.get('items', []):
