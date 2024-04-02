@@ -99,6 +99,4 @@ class YouTubeVideo:
             comments.append('')
         return comments
 
-if __name__ == "__main__":
-    main()
 
